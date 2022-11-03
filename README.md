@@ -6,8 +6,8 @@ To analyze the inverse kinematics using DH parameters for a 3 dof planer and 3 d
 
 
 ### COMPONENTS REQUIRED:
-1.Robo analyzer software  
 
+1.Robo analyzer software
 
 ### THEORY: 
   
@@ -27,59 +27,33 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 ### solving inverse kinematic model 
 ![image](https://user-images.githubusercontent.com/36288975/170622829-3fe97ef7-8ef1-44af-afae-b0954871aa0c.png)
 
-
 ![image](https://user-images.githubusercontent.com/36288975/170622902-f48fd9c7-f2ec-4fd5-904b-ea51be8298c3.png)
 
 ![image](https://user-images.githubusercontent.com/36288975/170622934-a3fd7f77-7eb2-4408-b66d-d6e3adbd1f99.png)
 
 ![image](https://user-images.githubusercontent.com/36288975/170622982-9c4d8b23-1563-4e17-9616-87bcc4f4501d.png)
+
 ![image](https://user-images.githubusercontent.com/36288975/170623020-f27efc12-bb58-4f62-840d-af544ac6689e.png)
 
 ### PROCEDURE:
 
+1. Open the roboanalyzer software.
 
+2. Select the robot and its degrees of freedom.
 
+3. Change the values of X and Y wherever necessary.
 
+4. Simulate the model for inverse kinematics.
 
+5. Plot the graph between the joints.
 
-
+6. Update the DH parameters of the link configuration and end effector configuration.
 
 ### SIMULATION 
  
- 
- 
- 
- 
- 
- 
- ### PLOT 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+ ![3 1](https://user-images.githubusercontent.com/75234965/199656697-9b2dd8c2-6559-402f-bdf8-bfa8d1491979.png)
 
+ ![3 2](https://user-images.githubusercontent.com/75234965/199656733-d26b0b0a-a054-4a2a-ace4-91c84bd69fd2.png)
  
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### RESULTS :  
+Thus,the inverse kinematics using DH parameters for a 3 dof planer robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
